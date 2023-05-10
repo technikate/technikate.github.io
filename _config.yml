@@ -1,3 +1,3 @@
-theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Katie Knish 
 description: I'm a technical writer based in the Upper Valley in Vermont. This site is a hub for my samples and other projects. Take a look around! 
