@@ -1,9 +1,9 @@
 # Sample site navigation bar links
 
 - title: Home
-   url: /
+url: /
 - title: Writing
-   url: https://technikate.github.io/wsa-labs
+url: https://technikate.github.io/wsa-labs
 - title: LinkedIn
-   url: https://www.linkedin.com/in/katieknish/
+url: https://www.linkedin.com/in/katieknish/
   
