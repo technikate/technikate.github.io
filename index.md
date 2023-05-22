@@ -1,5 +1,8 @@
 ---
 title: Katie Knish 
 ---
-Hi! I'm Katie, a technical editor and writer based in Vermont. This site is a hub for samples and projects. Thanks for visiting! 
+Hi! I'm Katie, a technical writer based in Vermont. This is a hub for samples and projects.
 
+I made this site on GitHub pages with the So Simple Jekyll theme. All content is written in Markdown. 
+
+Thanks for visiting! 
